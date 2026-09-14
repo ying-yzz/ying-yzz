@@ -22,12 +22,14 @@
 ### ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
-
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ying-yzz&layout=compact&langs_count=8&theme=algolia"/>
-</a>
+  <img height="180" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ying-yzz&layout=compact&langs_count=8&theme=algolia" alt="Top Languages" />
 </p>
+
 ---
+
 ### 🤝 &nbsp;Connect with me
+
+<div align="center">
 
 <div align="center">
   <a href="https://www.linkedin.com/in/ying-zhang-zhang/" target="_blank">
