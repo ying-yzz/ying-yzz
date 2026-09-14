@@ -18,9 +18,29 @@
 - 💡 Especially interested in areas such as Cybersecurity: red and blue team.
 
 ---
+### ⚙️ &nbsp;GitHub Analytics
 
-<div align="center">
-  <img height="195px" src="https://github-readme-stats.vercel.app/api?username=ying-yzz&show_icons=true&theme=dark&include_all_commits=true" alt="Estadísticas de GitHub" />
-  <img height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=dark" alt="Lenguajes más usados" />
-</div>
-  
+<p align="center">
+<a href="https://github.com/ying-yzz">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ying-yzz8&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ying-yzz&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
+---
+
+10px;">Connect with me 🤝 </h3>
+
+<p align="center">
+
+ <div align="center"  class="icons-social" style="margin-left: 10px;">
+        <a style="margin-left: 10px;"  target="_blank" href="https://www.linkedin.com/in/ying-zhang-zhang/">
+			<img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png"></a>
+        <a style="margin-left: 10px;" target="_blank" href="https://github.com/ying-yzz">
+		<img src="https://img.icons8.com/doodle/40/000000/github--v1.png"></a>
+    <a href = "ying24210@gmail.com"><img align="center" src="https://seeklogo.com/images/G/gmail-new-2020-logo-32DBE11BB4-seeklogo.com.png" height="30" width="40" /></a>
+      </div>
+
+</p>
+
+
+
