@@ -27,7 +27,7 @@
 </p>
 ---
 
-10px;">Connect with me 🤝 </h3>
+<10px;">Connect with me 🤝 </h3>
 
 <p align="center">
 
@@ -36,7 +36,9 @@
 			<img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png"></a>
         <a style="margin-left: 10px;" target="_blank" href="https://github.com/ying-yzz">
 		<img src="https://img.icons8.com/doodle/40/000000/github--v1.png"></a>
-    <a href = "ying24210@gmail.com"><img align="center" src="https://seeklogo.com/images/G/gmail-new-2020-logo-32DBE11BB4-seeklogo.com.png" height="30" width="40" /></a>
+	 <a style="margin-left: 10px;"  target="_blank" href="mailto:ying24210@gmail.com">
+	 	<img src="https://seeklogo.com/images/G/gmail-new-2020-logo-32DBE11BB4-seeklogo.com.png"></a>
+    
       </div>
 
 </p>
