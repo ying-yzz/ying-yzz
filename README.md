@@ -12,3 +12,15 @@
 </p>
 
 ---
+- 👨‍💻 I'm constantly learning and exploring new technologies to improve my skills.
+- 🎓 Computer Science Engineering student at Universitat Politècnica de València (UPV).
+- 🎯 Looking for my first internship to apply my academic knowledge in real-world environments.
+- 💡 Especially interested in areas such as Cybersecurity: red and blue team.
+
+---
+
+<div align="center">
+  <img height="195px" src="https://github-readme-stats.vercel.app/api?username=ying-yzz&show_icons=true&theme=dark&include_all_commits=true" alt="Estadísticas de GitHub" />
+  <img height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=dark" alt="Lenguajes más usados" />
+</div>
+  
