@@ -29,19 +29,17 @@
 
 <10px;">Connect with me 🤝 </h3>
 
-<p align="center">
-
- <div align="center"  class="icons-social" style="margin-left: 10px;">
-        <a style="margin-left: 10px;"  target="_blank" href="https://www.linkedin.com/in/ying-zhang-zhang/">
-			<img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png"></a>
-        <a style="margin-left: 10px;" target="_blank" href="https://github.com/ying-yzz">
-		<img src="https://img.icons8.com/doodle/40/000000/github--v1.png"></a>
-	 <a style="margin-left: 10px;"  target="_blank" href="mailto:ying24210@gmail.com">
-	 	<img src="https://seeklogo.com/images/G/gmail-new-2020-logo-32DBE11BB4-seeklogo.com.png"></a>
-    
-      </div>
-
-</p>
+<div align="center">
+  <a href="https://www.linkedin.com/in/ying-zhang-zhang/" target="_blank">
+    <img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png" alt="LinkedIn" width="40" height="40" style="vertical-align: middle; margin: 0 8px;" />
+  </a>
+  <a href="https://github.com/ying-yzz" target="_blank">
+    <img src="https://img.icons8.com/doodle/40/000000/github--v1.png" alt="GitHub" width="40" height="40" style="vertical-align: middle; margin: 0 8px;" />
+  </a>
+  <a href="mailto:ying24210@gmail.com" target="_blank">
+    <img src="https://seeklogo.com/images/G/gmail-new-2020-logo-32DBE11BB4-seeklogo.com.png" alt="Gmail" width="40" height="40" style="vertical-align: middle; margin: 0 8px; object-fit: contain;" />
+  </a>
+</div>
 
 
 
