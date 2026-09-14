@@ -15,7 +15,8 @@
 - 👨‍💻 I'm constantly learning and exploring new technologies to improve my skills.
 - 🎓 Computer Science Engineering student at Universitat Politècnica de València (UPV).
 - 🎯 Looking for my first internship to apply my academic knowledge in real-world environments.
-- 💡 Especially interested in areas such as Cybersecurity: red and blue team.
+- 💡 Especially interested in areas such as Cybersecurity: Red & Blue Team.
+- 🛡️ Documenting my hands-on security labs and writeups at [htr-walkthroughs](https://ying-yzz.github.io/htr-walkthroughs/).
 
 ---
 ### ⚙️ &nbsp;GitHub Analytics
