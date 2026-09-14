@@ -28,7 +28,7 @@
 </p>
 ---
 
-<10px;">Connect with me 🤝 </h3>
+Connect with me 🤝 </h3>
 
 <div align="center">
   <a href="https://www.linkedin.com/in/ying-zhang-zhang/" target="_blank">
